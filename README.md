@@ -1,0 +1,2 @@
+# StarlitySpecial
+A discord theme
